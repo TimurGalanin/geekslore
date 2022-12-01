@@ -1,0 +1,4 @@
+[submodule "geekslore"]
+	path = geekslore
+	url = git@github.com:chiefexb/geekslore.git
+	branch = develop
